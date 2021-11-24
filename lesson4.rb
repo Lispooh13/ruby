@@ -1,0 +1,2 @@
+name = "Suemori"
+puts name
